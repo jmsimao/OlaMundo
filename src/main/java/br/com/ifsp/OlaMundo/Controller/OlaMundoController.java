@@ -25,7 +25,9 @@ public class OlaMundoController {
 
 	@GetMapping("olamundo") 
 	String getOlaMundo() {
-		return "Olá, mundo!";
+		return "<h1>"
+				+ "<font color=blue>Olá, mundo!</font>"
+				+ "</h1>";
 	}
 	
 	@GetMapping("/restapi")
