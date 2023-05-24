@@ -1,4 +1,4 @@
-package br.com.ifsp.helloworld.Model;
+package br.com.ifsp.OlaMundo.Model;
 
 public class OlaMundo {
 	

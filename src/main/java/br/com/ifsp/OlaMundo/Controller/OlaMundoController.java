@@ -1,4 +1,4 @@
-package br.com.ifsp.helloworld.Controller;
+package br.com.ifsp.OlaMundo.Controller;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.ifsp.helloworld.Model.OlaMundo;
+import br.com.ifsp.OlaMundo.Model.OlaMundo;
 
 @RestController
 @RequestMapping
