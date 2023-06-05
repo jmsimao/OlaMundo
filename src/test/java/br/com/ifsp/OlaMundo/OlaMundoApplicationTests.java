@@ -1,10 +1,10 @@
-package br.com.ifsp.helloworld;
+package br.com.ifsp.OlaMundo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloworldApplicationTests {
+class OlaMundoApplicationTests {
 
 	@Test
 	void contextLoads() {
